@@ -1,4 +1,4 @@
-package org.muyi.learn.ljma;
+package org.muyi.ljma;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
